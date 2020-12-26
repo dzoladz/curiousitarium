@@ -1,0 +1,103 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "harsh_judgements_6",
+    "label": "Two Regimes of Madness",
+    "author": "Gilles Deleuze",
+    "publisher": "Semiotext(e)",
+    "date_published": "2006",
+    "cover_art": "Channa Horwitz",
+    "cover_design": "Hedi El Kholti",
+    "collection": "harsh_judgements",
+    "thumbnail": "/img/derivatives/iiif/images/harsh_judgements_6/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/harsh_judgements/harsh_judgements_6",
+    "lunr_id": 0
+  },
+  {
+    "pid": "harsh_judgements_2",
+    "label": "Sanatorium Under the Sign of the Hourglass",
+    "author": "Bruno Schulz",
+    "publisher": "Penguin Books",
+    "date_published": "1979",
+    "cover_art": "Bruno Schulz",
+    "cover_design": "Neil Stuart",
+    "collection": "harsh_judgements",
+    "thumbnail": "/img/derivatives/iiif/images/harsh_judgements_2/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/harsh_judgements/harsh_judgements_2",
+    "lunr_id": 1
+  },
+  {
+    "pid": "harsh_judgements_3",
+    "label": "The Drowned World",
+    "author": "J. G. Ballard",
+    "publisher": "Penguin Books",
+    "date_published": "1974",
+    "cover_art": "David Pelham",
+    "cover_design": null,
+    "collection": "harsh_judgements",
+    "thumbnail": "/img/derivatives/iiif/images/harsh_judgements_3/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/harsh_judgements/harsh_judgements_3",
+    "lunr_id": 2
+  },
+  {
+    "pid": "harsh_judgements_7",
+    "label": "Nightmares of Eminent Persons",
+    "author": "Bertrand Russell",
+    "publisher": "Penguin Books",
+    "date_published": "1962",
+    "cover_art": "Virgil Burnett",
+    "cover_design": null,
+    "collection": "harsh_judgements",
+    "thumbnail": "/img/derivatives/iiif/images/harsh_judgements_7/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/harsh_judgements/harsh_judgements_7",
+    "lunr_id": 3
+  },
+  {
+    "pid": "harsh_judgements_4",
+    "label": "Mortal Engines",
+    "author": "Stanislaw Lem",
+    "publisher": "Seabury Press",
+    "date_published": "1977",
+    "cover_art": "Max Ernst",
+    "cover_design": null,
+    "collection": "harsh_judgements",
+    "thumbnail": "/img/derivatives/iiif/images/harsh_judgements_4/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/harsh_judgements/harsh_judgements_4",
+    "lunr_id": 4
+  },
+  {
+    "pid": "harsh_judgements_5",
+    "label": "A Hastily Thrown Together Bit of Zork",
+    "author": "John Brunner",
+    "publisher": "Square House Books",
+    "date_published": "1974",
+    "cover_art": null,
+    "cover_design": "John Brunner",
+    "collection": "harsh_judgements",
+    "thumbnail": "/img/derivatives/iiif/images/harsh_judgements_5/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/harsh_judgements/harsh_judgements_5",
+    "lunr_id": 5
+  },
+  {
+    "pid": "harsh_judgements_1",
+    "label": "The Colour Out of Space",
+    "author": "H. P. Lovecraft",
+    "publisher": "Lancer Books",
+    "date_published": "1969",
+    "cover_art": "Victor Valla",
+    "cover_design": null,
+    "collection": "harsh_judgements",
+    "thumbnail": "/img/derivatives/iiif/images/harsh_judgements_1/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/harsh_judgements/harsh_judgements_1",
+    "lunr_id": 6
+  }
+]

@@ -1,0 +1,46 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/harsh_judgements.json",
+  "@type": "sc:Collection",
+  "label": "harsh_judgements",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/harsh_judgements_3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "harsh_judgements_3"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/harsh_judgements_2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "harsh_judgements_2"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/harsh_judgements_1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "harsh_judgements_1"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/harsh_judgements_5/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "harsh_judgements_5"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/harsh_judgements_4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "harsh_judgements_4"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/harsh_judgements_6/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "harsh_judgements_6"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/harsh_judgements_7/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "harsh_judgements_7"
+    }
+  ]
+}

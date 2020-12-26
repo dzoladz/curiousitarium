@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class='exhibit-meta'>
+  <div class='exhibit-title'>{{ page.title }}</div>
+  <div class='exhibit-subtitle'>{{ page.subtitle }}</div>
+  <div class="exhibit-row">
+    <div class='exhibit-author'>
+      <strong>Curator:</strong> {{ page.author }}
+    </div>
+    <div class='exhibit-date'>
+      <strong>Published:</strong>
+        <time datetime='{{ page.publish_date | date_to_xmlschema }}'>
+        {{ page.publish_date | date: "%B %d, %Y" }}
+        </time>
+    </div>
+  </div>
+</div>
+
+{{ content }}
