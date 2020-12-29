@@ -8,7 +8,7 @@ edition: 1974 reprint
 cover_art: David Pelham
 cover_design:
 object_type: image
-order: '2'
+order: '0'
 layout: harsh_judgements_item
 collection: harsh_judgements
 thumbnail: "/img/derivatives/iiif/images/harsh_judgements_3/full/250,/0/default.jpg"

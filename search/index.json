@@ -3,6 +3,20 @@ layout: none
 ---
 [
   {
+    "pid": "harsh_judgements_8",
+    "label": "Collapse Volume IV: Concept Horror",
+    "author": null,
+    "publisher": null,
+    "date_published": "2012",
+    "cover_art": null,
+    "cover_design": null,
+    "collection": "harsh_judgements",
+    "thumbnail": "/img/derivatives/iiif/images/harsh_judgements_8/full/250,/0/default.jpg",
+    "content": " ",
+    "permalink": "/harsh_judgements/harsh_judgements_8",
+    "lunr_id": 0
+  },
+  {
     "pid": "harsh_judgements_6",
     "label": "Two Regimes of Madness",
     "author": "Gilles Deleuze",
@@ -14,7 +28,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/harsh_judgements_6/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/harsh_judgements/harsh_judgements_6",
-    "lunr_id": 0
+    "lunr_id": 1
   },
   {
     "pid": "harsh_judgements_2",
@@ -28,7 +42,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/harsh_judgements_2/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/harsh_judgements/harsh_judgements_2",
-    "lunr_id": 1
+    "lunr_id": 2
   },
   {
     "pid": "harsh_judgements_3",
@@ -42,7 +56,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/harsh_judgements_3/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/harsh_judgements/harsh_judgements_3",
-    "lunr_id": 2
+    "lunr_id": 3
   },
   {
     "pid": "harsh_judgements_7",
@@ -56,7 +70,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/harsh_judgements_7/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/harsh_judgements/harsh_judgements_7",
-    "lunr_id": 3
+    "lunr_id": 4
   },
   {
     "pid": "harsh_judgements_4",
@@ -70,7 +84,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/harsh_judgements_4/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/harsh_judgements/harsh_judgements_4",
-    "lunr_id": 4
+    "lunr_id": 5
   },
   {
     "pid": "harsh_judgements_5",
@@ -84,7 +98,7 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/harsh_judgements_5/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/harsh_judgements/harsh_judgements_5",
-    "lunr_id": 5
+    "lunr_id": 6
   },
   {
     "pid": "harsh_judgements_1",
@@ -95,9 +109,9 @@ layout: none
     "cover_art": "Victor Valla",
     "cover_design": null,
     "collection": "harsh_judgements",
-    "thumbnail": "/img/derivatives/iiif/images/harsh_judgements_1/full/250,/0/default.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/harsh_judgements_1_a/full/250,/0/default.jpg",
     "content": " ",
     "permalink": "/harsh_judgements/harsh_judgements_1",
-    "lunr_id": 6
+    "lunr_id": 7
   }
 ]

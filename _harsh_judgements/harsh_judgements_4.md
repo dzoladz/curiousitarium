@@ -8,7 +8,7 @@ edition:
 cover_art: Max Ernst
 cover_design:
 object_type: image
-order: '3'
+order: '4'
 layout: harsh_judgements_item
 collection: harsh_judgements
 thumbnail: "/img/derivatives/iiif/images/harsh_judgements_4/full/250,/0/default.jpg"

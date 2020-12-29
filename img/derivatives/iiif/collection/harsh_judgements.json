@@ -18,11 +18,6 @@ layout: none
       "label": "harsh_judgements_2"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/harsh_judgements_1/manifest.json",
-      "@type": "sc:Manifest",
-      "label": "harsh_judgements_1"
-    },
-    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/harsh_judgements_5/manifest.json",
       "@type": "sc:Manifest",
       "label": "harsh_judgements_5"
@@ -41,6 +36,16 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/harsh_judgements_7/manifest.json",
       "@type": "sc:Manifest",
       "label": "harsh_judgements_7"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/harsh_judgements_1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "harsh_judgements_1"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/harsh_judgements_8/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "harsh_judgements_8"
     }
   ]
 }
